@@ -1,5 +1,5 @@
 # Prostate-Pathology
-Ensemble tree learning to predict prostate pathologic upstaging of intermediate risk prostate cancer. 
+Ensemble tree learning to predict prostate pathologic upstaging of intermediate risk prostate cancer compared to traditional Kattan-type model
 
 - Presented in oral session at the American Society for Radiation Oncology Annual Meeting 2018 in the "Digital Health Innovation & Informatics 1" session
 - Available files
